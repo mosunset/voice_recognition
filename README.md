@@ -4,3 +4,5 @@
 pip install whisper
 ```
 と `ffmpeg` が必要
+
+タイムスタンプ付きの字幕ファイルとして出力
